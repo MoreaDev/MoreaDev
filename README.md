@@ -20,4 +20,4 @@
 ## 📫 Connect
 
 * 💬 Discord: petro.n_
-* 🌐 Email: naassanpetro39@gmail.com
+* 🌐 Email: moreadev@outlook.com
