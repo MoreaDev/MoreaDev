@@ -1,4 +1,29 @@
-- 👋 Hi, I’m @FoxyGTPS
-- 👀 I’m interested in GTPS
-- 🌱 I’m currently learning C#
-- 💞️ I know how to code C++
+# 👋 Hey, I'm Morea
+
+## 🚀 About Me
+
+* 💻 Passionate about **C++ & low-level programming**
+* ⚡ Focused on **performance, optimization, and system-level thinking**
+* 🧠 Always learning something new — from memory management to real-world architecture
+* 🔥 Building projects that actually *do something*, not just tutorials
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 GrowtopiaServer-Master
+
+>  Growtopia Private Server With Some Features
+
+* ⚙️ Built with: C++
+* 🚀 Features:
+
+  * Fast and efficient
+  * Clean architecture
+  * Real-world use case
+---
+
+## 📫 Connect
+
+* 💬 Discord: petro.n_
+* 🌐 Email: naassanpetro39@gmail.com
