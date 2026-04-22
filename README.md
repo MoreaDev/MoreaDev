@@ -20,7 +20,6 @@
 
   * Fast and efficient
   * Clean architecture
-  * Real-world use case
 ---
 
 ## 📫 Connect
