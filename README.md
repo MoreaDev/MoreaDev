@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Morea
+# 👋 Hey, I'm Petro Naassan
 
 ## 🚀 About Me
 
