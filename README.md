@@ -15,11 +15,6 @@
 
 >  Working Progress...
 
-* ⚙️ Built with: C++
-* 🚀 Features:
-
-  * Fast and efficient
-  * Clean architecture
 ---
 
 ## 📫 Connect
